@@ -11,6 +11,9 @@
     - #if isinstance(index, set):
           #raise ValueError("index cannot be a set")
 
+
+  The code still fails at lines 41 and 44–45.
+
 ## Part 2
 
 Does a change count?
